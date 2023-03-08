@@ -19,8 +19,8 @@
 ## Как запустить:
 
 ```
-git clone https://github.com/flashlight101/data_engineering.git
-cd data_engineering
+git clone https://https://github.com/slothraven/viral_capsid_project.git
+cd viral_capsid_project
 pip install -r requirements.txt
 ```
 Также для запуска проекта необходим браузер Google Chrome последней версии(Для запуска selenium)
