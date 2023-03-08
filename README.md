@@ -19,7 +19,7 @@
 ## Как запустить:
 
 ```
-git clone https://https://github.com/slothraven/viral_capsid_project.git
+git clone https://github.com/slothraven/viral_capsid_project.git
 cd viral_capsid_project
 pip install -r requirements.txt
 ```
